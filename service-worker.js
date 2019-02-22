@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/koa-playground/precache-manifest.acca4ba2560ca7b4d56d144c1045f543.js"
+  "/koa-playground/precache-manifest.e7e4064900ddcbe59df45bee093f5e3d.js"
 );
 
 workbox.clientsClaim();
