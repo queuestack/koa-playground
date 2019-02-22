@@ -1,14 +1,14 @@
 {
-  "main.css": "/koa-playground/static/css/main.6bf4c0e9.chunk.css",
-  "main.js": "/koa-playground/static/js/main.1c48f487.chunk.js",
-  "main.js.map": "/koa-playground/static/js/main.1c48f487.chunk.js.map",
+  "main.css": "/koa-playground/static/css/main.1a0df0e9.chunk.css",
+  "main.js": "/koa-playground/static/js/main.2d0dcf3c.chunk.js",
+  "main.js.map": "/koa-playground/static/js/main.2d0dcf3c.chunk.js.map",
   "static/js/1.8a9ecbbd.chunk.js": "/koa-playground/static/js/1.8a9ecbbd.chunk.js",
   "static/js/1.8a9ecbbd.chunk.js.map": "/koa-playground/static/js/1.8a9ecbbd.chunk.js.map",
   "runtime~main.js": "/koa-playground/static/js/runtime~main.8cdcfdd7.js",
   "runtime~main.js.map": "/koa-playground/static/js/runtime~main.8cdcfdd7.js.map",
-  "static/css/main.6bf4c0e9.chunk.css.map": "/koa-playground/static/css/main.6bf4c0e9.chunk.css.map",
+  "static/css/main.1a0df0e9.chunk.css.map": "/koa-playground/static/css/main.1a0df0e9.chunk.css.map",
   "static/media/FlexibleInfoBox.scss": "/koa-playground/static/media/run.7ef1ec74.png",
   "index.html": "/koa-playground/index.html",
-  "precache-manifest.1c8a5b75a19289f8e2129bba820e74e9.js": "/koa-playground/precache-manifest.1c8a5b75a19289f8e2129bba820e74e9.js",
+  "precache-manifest.119e2da646f347595861190aa587eeec.js": "/koa-playground/precache-manifest.119e2da646f347595861190aa587eeec.js",
   "service-worker.js": "/koa-playground/service-worker.js"
 }
