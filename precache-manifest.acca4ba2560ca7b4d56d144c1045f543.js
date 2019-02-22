@@ -4,19 +4,19 @@ self.__precacheManifest = [
     "url": "/koa-playground/static/js/runtime~main.8cdcfdd7.js"
   },
   {
-    "revision": "4d8b2568242218a370ae",
-    "url": "/koa-playground/static/js/main.4d8b2568.chunk.js"
+    "revision": "a7afd9320a65247e6506",
+    "url": "/koa-playground/static/js/main.a7afd932.chunk.js"
   },
   {
     "revision": "f0fb491d307203593adf",
     "url": "/koa-playground/static/js/1.f0fb491d.chunk.js"
   },
   {
-    "revision": "4d8b2568242218a370ae",
-    "url": "/koa-playground/static/css/main.9435e8f2.chunk.css"
+    "revision": "a7afd9320a65247e6506",
+    "url": "/koa-playground/static/css/main.3b9bf429.chunk.css"
   },
   {
-    "revision": "f12abc02d790130387e1176f65816b8a",
+    "revision": "c302650dcdadc0dc74c70c9906778a57",
     "url": "/koa-playground/index.html"
   }
 ];
